@@ -1,2 +1,5 @@
 tambah
+<<<<<<< HEAD
 coba2
+=======
+>>>>>>> parent of 7f3728a (tambah dr branch)
