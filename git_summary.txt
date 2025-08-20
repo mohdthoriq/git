@@ -1,0 +1,13 @@
+daftar branch: fitur-2 dan fitur-3
+d1884cc (HEAD -> main, origin/main) rahasia
+4dbf65c baru2
+f00443e baru
+d614922 Merge branch 'fitur-3' into fitur-kontak
+e43ff06 (fitur-3) tambah lagi
+7f3728a (fitur-2) tambah dr branch
+8f9153c add fitur kontak
+
+.gitignore: rahasia
+origin  git@github.com:mohdthoriq/git.git (fetch)
+origin  git@github.com:mohdthoriq/git.git (push)
+
